@@ -1,4 +1,4 @@
-## Georreferenciamento acidentes de trânsito - RECIFE
+## Georreferenciamento dos acidentes de trânsito - RECIFE-PE
 
 ## OBJETIVO GERAL:
 Analisar a distribuição espacial dos acidentes de trânsito na cidade de Recife-PE que envolvam pedestres e ciclistas, observando também as zonas de trânsito calmo e ciclovias da cidade.
@@ -15,11 +15,13 @@ Importação
 Tratamento
 - Georreferenciamento dos sinistros oriundos da etapa anterior (latitude e longitude). 
 Visualização
-- Construção dos mapas
+- Construção dos mapas atravês do QGis.
 
 ## RESULTADOS
 
 
+![Atrop_2016total](https://user-images.githubusercontent.com/123265569/213933821-ee3b6922-3b04-4ea9-a270-3493ecdc08f2.png)
+![Atrop_2021total](https://user-images.githubusercontent.com/123265569/213933835-d18c5046-32e6-4982-86e0-19d867f497bc.png)
 
 
 
