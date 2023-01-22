@@ -19,8 +19,10 @@ Visualização
 
 ## RESULTADOS
 
-
+- Atropelamentos em 2016 (Linhas verdes são as ciclovias)
 ![Atrop_2016total](https://user-images.githubusercontent.com/123265569/213933821-ee3b6922-3b04-4ea9-a270-3493ecdc08f2.png)
+
+- Atropelamentos em 2021 com a implementação das áreas de Trânsito Calmo
 ![Atrop_2021total](https://user-images.githubusercontent.com/123265569/213933835-d18c5046-32e6-4982-86e0-19d867f497bc.png)
 
 
