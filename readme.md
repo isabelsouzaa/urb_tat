@@ -9,12 +9,12 @@ Foram utilizados dados fornecidos pela prefeitura da cidade de Recife - PE, que 
 
 ## ROTEIRO
 
-# Importação
+### Importação
 - Extração dos dados dos acidentes ocorridos em cada ano oriundos da CTTU ( Autarquia de Trânsito e Transporte Urbano do Recife) a partir do site oficial da prefeitura da cidade, disponível em: http://dados.recife.pe.gov.br/dataset/acidentes-de-transito-com-e-sem-vitimas
 - Separação dos acidentes que forneciam endereço dos demais. Em cada ano, esse número variou entre 40% e 50% de toda população de sinistros. 
-# Tratamento
+### Tratamento
 - Georreferenciamento dos sinistros oriundos da etapa anterior (latitude e longitude). 
-# Visualização
+### Visualização
 - Construção dos mapas atravês do QGis.
 
 ## RESULTADOS
